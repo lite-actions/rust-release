@@ -1,6 +1,6 @@
 # rust-release
 
-## v1.1.1
+## v1.1.2
 
-_No user-facing changes since v1.1.0._
+_No user-facing changes since v1.1.1._
 
