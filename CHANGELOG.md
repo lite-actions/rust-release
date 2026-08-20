@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file,
 grouped by push and referenced by short commit SHA.
 
+## 2026-08-20 ([5ff1db0](https://github.com/lite-actions/rust-release/commit/5ff1db0e3e9dd82ceb559c01edfb231715e883ec))
+
+### Other Changes
+
+- rename release.yml to publish.yml ([238b50b](https://github.com/lite-actions/rust-release/commit/238b50b1d9ca2c960482fa142b44f7f505991853))
+
 ## 2026-08-20 ([7955638](https://github.com/lite-actions/rust-release/commit/7955638acf85fd83a6231e10e31e8ce0ad62111d))
 
 ### Other Changes
