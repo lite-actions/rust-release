@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file,
 grouped by push and referenced by short commit SHA.
 
+## 2026-08-20 ([92e5a92](https://github.com/lite-actions/rust-release/commit/92e5a92eeaea6b7dc0cc1c99eddfc95504984ec9))
+
+### Other Changes
+
+- use the renamed publish action ([e44fe8a](https://github.com/lite-actions/rust-release/commit/e44fe8a92656bafd1bda807a68e46d01c2105ed8))
+
 ## 2026-08-20 ([5ff1db0](https://github.com/lite-actions/rust-release/commit/5ff1db0e3e9dd82ceb559c01edfb231715e883ec))
 
 ### Other Changes
