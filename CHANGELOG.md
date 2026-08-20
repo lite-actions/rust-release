@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file,
 grouped by push and referenced by short commit SHA.
 
+## 2026-08-20 ([e35f819](https://github.com/lite-actions/rust-release/commit/e35f8194e10801fd8da2fba7e4a8bc49ff99c8d3))
+
+### Other Changes
+
+- adopt common-workflows for lint, test and validation ([37ab044](https://github.com/lite-actions/rust-release/commit/37ab044ff183d544eccffd14818b105161ff6d8a))
+
 ## 2026-08-20 ([bcf9cfe](https://github.com/lite-actions/rust-release/commit/bcf9cfeeb23e1631f93dec9b50017c6d11de9231))
 
 ### Other Changes
