@@ -125,3 +125,14 @@ nothing, so it cannot mistype.
   Unsupported `platform/arch` combos are skipped, not errored.
 - Packaging branches on `$RUNNER_OS` (`zip` vs `7z`); binary name defaults to the
   Cargo.toml package name and gets `.exe` on Windows.
+
+## Security
+
+- **Never use `pull_request_target`.** It runs the *base* repository's workflow
+  with secrets and a write token against fork-controlled code — the classic way
+  an action repository is compromised. `pull_request` is correct: a fork PR runs
+  in the fork's context with a read-only token and no access to secrets, so
+  untrusted code still runs but can neither exfiltrate nor write. This is the
+  single most important control in these repos and the cheapest to lose by
+  accident, because `pull_request_target` looks like a convenient way to get a
+  token.
