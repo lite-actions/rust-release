@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file,
 grouped by push and referenced by short commit SHA.
 
+## 2026-08-23 ([a137355](https://github.com/lite-actions/rust-release/commit/a137355027de8bc2831c53678291234f31a1bc07))
+
+### Other Changes
+
+- pin git-checkout to a SHA in CI ([2066c01](https://github.com/lite-actions/rust-release/commit/2066c016dc3b8f81f611ec26ab82e27360aefc4c))
+
 ## 2026-08-23 ([41ab6ec](https://github.com/lite-actions/rust-release/commit/41ab6ecd44b2c13e191a6d4d3449c4c69827ddcf))
 
 ### Other Changes
