@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file,
 grouped by push and referenced by short commit SHA.
 
+## 2026-08-23 ([bbc573e](https://github.com/lite-actions/rust-release/commit/bbc573e65045115356a4c13f81fa9cbd3cbc4711))
+
+### Other Changes
+
+- add Dependabot for GitHub Actions ([6503663](https://github.com/lite-actions/rust-release/commit/6503663b4165d1d61bcec12c75dd8a2f45af7a6a))
+
 ## 2026-08-20 ([92e5a92](https://github.com/lite-actions/rust-release/commit/92e5a92eeaea6b7dc0cc1c99eddfc95504984ec9))
 
 ### Other Changes
