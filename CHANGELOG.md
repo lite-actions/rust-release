@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file,
 grouped by push and referenced by short commit SHA.
 
+## 2026-08-23 ([77e74a4](https://github.com/lite-actions/rust-release/commit/77e74a479d17f86f33d49d102a73139593bd2eb6))
+
+### Other Changes
+
+- bump actions/upload-artifact from 4 to 7 ([321ab91](https://github.com/lite-actions/rust-release/commit/321ab91c024c302b5502495795573f78eecdc283))
+
 ## 2026-08-23 ([a137355](https://github.com/lite-actions/rust-release/commit/a137355027de8bc2831c53678291234f31a1bc07))
 
 ### Other Changes
