@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file,
 grouped by push and referenced by short commit SHA.
 
+## 2026-08-25 ([cee2eaa](https://github.com/lite-actions/rust-release/commit/cee2eaa5973c018291d7408d0200d888158d7c77))
+
+### Other Changes
+
+- point the shared workflow references at actions-workflows ([282e8fa](https://github.com/lite-actions/rust-release/commit/282e8fa8b971843817d1e8a0179e4a74b0d0c6be))
+
 ## 2026-08-23 ([77e74a4](https://github.com/lite-actions/rust-release/commit/77e74a479d17f86f33d49d102a73139593bd2eb6))
 
 ### Other Changes
