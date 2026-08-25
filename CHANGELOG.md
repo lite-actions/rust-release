@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file,
 grouped by push and referenced by short commit SHA.
 
+## 2026-08-25 ([eeba06b](https://github.com/lite-actions/rust-release/commit/eeba06b00056ec61b9472cb5e73e10926bbf0e94))
+
+### Other Changes
+
+- remove the per-repo Claude skills ([4aa443f](https://github.com/lite-actions/rust-release/commit/4aa443f55de7958d688b6f69281b5c2f0f02597c))
+
 ## 2026-08-25 ([cee2eaa](https://github.com/lite-actions/rust-release/commit/cee2eaa5973c018291d7408d0200d888158d7c77))
 
 ### Other Changes
